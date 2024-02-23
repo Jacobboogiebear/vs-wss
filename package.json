@@ -22,10 +22,6 @@
   "contributes": {
     "commands": [
       {
-        "command": "wss.initialize",
-        "title": "Workspace Shared Settings: Initialize"
-      },
-      {
         "command": "wss.applyWorkspaceSettings",
         "title": "Workspace Shared Settings: Apply Workspace Settings"
       }
