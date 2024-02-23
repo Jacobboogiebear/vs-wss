@@ -1,5 +1,12 @@
 # Workspace Shared Settings
 
+## PATCHES BY [Jacobboogiebear](https://github.com/Jacobboogiebear):
+
+1. Removed all "Initalization" features, as to prevent popups since my tools using already have it setup
+
+2. Transfered commands from Yarn to npm
+
+
 ## Features
 
 - Have you ever need to use ${workspaceFolder} in your settings.json?
